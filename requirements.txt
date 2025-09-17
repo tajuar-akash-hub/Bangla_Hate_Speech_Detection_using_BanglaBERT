@@ -1,0 +1,7 @@
+fastapi==0.116.1
+uvicorn==0.35.0
+torch==2.7.1
+transformers==4.56.1
+pydantic==2.8.2
+python-multipart==0.0.20
+streamlit
