@@ -1,1 +1,1 @@
-hate Speech Detection using Banlga Bert
+Hate Speech Detection using Banlga Bert
