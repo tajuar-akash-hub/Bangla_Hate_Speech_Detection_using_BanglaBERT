@@ -1,5 +1,3 @@
-
-
 ```markdown
 # Bangla Hate Speech Detection using BanglaBERT
 
